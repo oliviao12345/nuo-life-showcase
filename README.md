@@ -5,7 +5,7 @@ A calm life-admin app for UK adults, designed with ADHD in mind. Type something 
 
 > Commercial product built under NUO Tech. **Production source code is private.** This repository is a showcase of the product, the design and the engineering behind it.
 
-### [View the live product →](https://nuo-life.vercel.app)
+### [View the live product →](https://nuolife.app)
 
 <p align="center"><img src="docs/screenshots/home-hero.png" alt="The NUO Life website, with a playable demo of the Today screen" width="860" /></p>
 
